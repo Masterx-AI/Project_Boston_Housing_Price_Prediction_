@@ -57,7 +57,7 @@ Belsley D.A., Kuh, E. and Welsch, R.E. (1980) Regression Diagnostics. Identifyin
 
 **4. Relationship between the Feature-set**
 
-![image](https://user-images.githubusercontent.com/54996245/144908519-0eee04dd-c9d6-4b3a-8b8b-196781ab53d3.png)
+![image](https://user-images.githubusercontent.com/54996245/144909166-d897f458-8ab8-4521-8ce4-3ac6468eb806.png)
 
 **5. Data Retention after preforming preprocessing step**
 
